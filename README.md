@@ -4,7 +4,7 @@
 
 <h2>🙂 About Me :</h2>
 <p>I'm an ECE student interested in Electronics, Communication and
-also intrested in WebDevelopment  and other tech stuff.</p>
+also interested in WebDevelopment  and other tech stuff.</p>
 <h2>🚀 Languages and Tools :</h2>
 <p align="left">
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
